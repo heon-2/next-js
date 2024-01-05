@@ -10,7 +10,7 @@ export default async function Home() {
   console.log(result)
   return (
     <div>
-      안녕
+      메인페이지임.
     </div>
   )
 }
